@@ -1,0 +1,45 @@
+*{
+  font-family:"roboto",sans-serif;
+}
+body {
+  background-image: url("Imagens/f0311ab3-668d-4669-b695-c099ba6e82e5.png");
+  background-repeat: no-repeat; 
+  background-position: center ; 
+  background-attachment: fixed;
+  display: flex;
+  justify-content: center;
+  margin-top: 100px;
+ }
+.Contato {
+  width: 340px;
+  height: 370px;
+  background-color: rgba(30, 60, 99, 0.89);
+  color: rgb(250, 250, 250);
+  padding: 30px;
+  border: 2px solid #b2e71e;
+  padding: 120px;
+  border-radius: 1300px;
+  margin: 35px 0px;
+  display:flex ;
+
+}
+.Contato2 {
+  color: white;
+  display:flex ;
+  flex-direction: column;
+  margin-left: 60px;
+  margin-top: -40px;
+
+}
+.caixa{
+  width: 160px;
+  height: 30px;
+  background-color: rgb(255, 255, 255);
+  padding: 10px;
+  border: 1px solid 1px;
+  border-radius: 40px;
+  margin-left: 30px;
+
+}
+
+
